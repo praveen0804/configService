@@ -1,0 +1,17 @@
+/Users/praveenjaiswal/eclipse-workspace-common/configuration-service/src/main/java/com/configservice/entity/PrefData.java
+/Users/praveenjaiswal/eclipse-workspace-common/configuration-service/src/main/java/com/configservice/entity/UserPrefDetails.java
+/Users/praveenjaiswal/eclipse-workspace-common/configuration-service/src/main/java/com/configservice/entity/UserDetails.java
+/Users/praveenjaiswal/eclipse-workspace-common/configuration-service/src/main/java/com/configservice/promotion/CriteriaEnum.java
+/Users/praveenjaiswal/eclipse-workspace-common/configuration-service/src/main/java/com/configservice/entity/PrefCriteria.java
+/Users/praveenjaiswal/eclipse-workspace-common/configuration-service/src/main/java/com/configservice/ConfigServiceApplication.java
+/Users/praveenjaiswal/eclipse-workspace-common/configuration-service/src/main/java/com/configservice/controller/PromotionControlller.java
+/Users/praveenjaiswal/eclipse-workspace-common/configuration-service/src/main/java/com/configservice/config/Config.java
+/Users/praveenjaiswal/eclipse-workspace-common/configuration-service/src/main/java/com/configservice/service/RuleEngine.java
+/Users/praveenjaiswal/eclipse-workspace-common/configuration-service/src/main/java/com/configservice/repository/UserPrefDetailsRepo.java
+/Users/praveenjaiswal/eclipse-workspace-common/configuration-service/src/main/java/com/configservice/promotion/ProductInputDetails.java
+/Users/praveenjaiswal/eclipse-workspace-common/configuration-service/src/main/java/com/configservice/promotion/MaerskConstants.java
+/Users/praveenjaiswal/eclipse-workspace-common/configuration-service/src/main/java/com/configservice/Vo/UserDetails.java
+/Users/praveenjaiswal/eclipse-workspace-common/configuration-service/src/main/java/com/configservice/config/RuleEngineConfig.java
+/Users/praveenjaiswal/eclipse-workspace-common/configuration-service/src/main/java/com/configservice/Vo/Product.java
+/Users/praveenjaiswal/eclipse-workspace-common/configuration-service/src/main/java/com/configservice/serviceImpl/RuleEngineServiceImpl.java
+/Users/praveenjaiswal/eclipse-workspace-common/configuration-service/src/main/java/com/configservice/Vo/Preference.java

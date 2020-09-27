@@ -1,0 +1,13 @@
+com/configservice/entity/UserPrefDetails.class
+com/configservice/entity/PrefData.class
+com/configservice/promotion/ProductInputDetails.class
+com/configservice/entity/PrefCriteria.class
+com/configservice/promotion/CriteriaEnum.class
+com/configservice/serviceImpl/RuleEngineServiceImpl.class
+com/configservice/Vo/Product.class
+com/configservice/repository/UserPrefDetailsRepo.class
+com/configservice/ConfigServiceApplication.class
+com/configservice/service/RuleEngine.class
+com/configservice/promotion/MaerskConstants.class
+com/configservice/Vo/UserDetails.class
+com/configservice/entity/UserDetails.class
